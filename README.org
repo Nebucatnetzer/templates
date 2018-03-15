@@ -1,3 +1,10 @@
 * Project Templates
 
 A repository containing various templates to start a new project.
+
+** Python
+*** CLI
+
+This is a template to create a simple command line programme. It uses
+the very useful [[http://docopt.org/][docopt]] library. I got initially inspired to create
+this template by this [[https://stormpath.com/blog/building-simple-cli-interfaces-in-python][article]].
